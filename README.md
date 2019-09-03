@@ -6,7 +6,3 @@ I have added this line to check commit status for website repository
 I deleted two lines and updated with this new line.
 
 # repository
- 
- 
- conflict changes are made to see and explore this topic
-
